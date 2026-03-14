@@ -11,8 +11,7 @@ The program prints a greeting message and a short introduction about the develop
 
 - Python
 - Visual Studio Code
-- Git
-- GitHub
+- Git / GitHub
 
 ## Programming Language
 
