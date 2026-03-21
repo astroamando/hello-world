@@ -1,28 +1,33 @@
-# Hello World Software
+# CSharp Task Manager
 
 ## Overview
 
-This software demonstrates a simple Hello World program written in Python.  
-The purpose of this assignment is to practice setting up a development environment and publishing software to GitHub.
+This software is a simple C# console application called **Task Manager**. It allows users to add tasks, view tasks, mark tasks as completed, and remove tasks from the list.
 
-The program prints a greeting message and a short introduction about the developer.
+I created this software to practice programming in C# and to better understand how variables, loops, conditionals, lists, methods, and user input work together in a real program.
+
+[Software Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
 
 ## Development Environment
 
-- Python
+- C#
+- .NET SDK
 - Visual Studio Code
 - Git / GitHub
 
 ## Programming Language
 
-Python
+C#
 
-## Video Demonstration
+## Useful Websites
 
-YouTube Video: (https://youtu.be/zPUCCxhgQXU)
+- Microsoft C# Documentation
+- Microsoft .NET Documentation
+- W3Schools C# Tutorial
 
 ## Future Work
 
-- Add user input
-- Expand functionality
-- Build a small interactive program
+- Add due dates for tasks
+- Save tasks to a file
+- Add categories and priorities
+- Create a graphical interface
