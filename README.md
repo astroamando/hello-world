@@ -1,33 +1,32 @@
-# CSharp Task Manager
+# Hello World Program
 
 ## Overview
 
-This software is a simple C# console application called **Task Manager**. It allows users to add tasks, view tasks, mark tasks as completed, and remove tasks from the list.
+This software is a simple Hello World program written in Python.  
+The program prints a greeting message and introduces me as a Software Development student at BYU-Pathway.
 
-I created this software to practice programming in C# and to better understand how variables, loops, conditionals, lists, methods, and user input work together in a real program.
+I created this software to practice using Python, Visual Studio Code, Git, and GitHub.
 
 [Software Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
 
 ## Development Environment
 
-- C#
-- .NET SDK
+- Python
 - Visual Studio Code
 - Git / GitHub
 
 ## Programming Language
 
-C#
+Python
 
 ## Useful Websites
 
-- Microsoft C# Documentation
-- Microsoft .NET Documentation
-- W3Schools C# Tutorial
+- https://www.python.org/
+- https://code.visualstudio.com/
+- https://github.com/
 
 ## Future Work
 
-- Add due dates for tasks
-- Save tasks to a file
-- Add categories and priorities
-- Create a graphical interface
+- Learn more Python functions
+- Create larger Python programs
+- Add user input to programs
