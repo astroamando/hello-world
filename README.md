@@ -7,7 +7,7 @@ The program prints a greeting message and introduces me as a Software Developmen
 
 I created this software to practice using Python, Visual Studio Code, Git, and GitHub.
 
-[Software Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Software Demo Video](https://www.youtube.com/watch?v=fUyiXWk6tWE)
 
 ## Development Environment
 
